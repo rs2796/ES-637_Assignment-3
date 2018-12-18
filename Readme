@@ -1,0 +1,19 @@
+Important points:
+1. There are three matlab files:
+	1.derivatives.m
+	2.HornSchunckcode.m
+	3.LucasKanade.m
+2. derivatives.m is a function.
+3. HornSchunck is the code for Horn Schunck. For this you have to input the number of iterations.
+
+4. LucasKanade.m is the code for Lucas Kanade.
+
+5. Input images are already given, but there are other images available also and if you want to test on other images then carefully change the file path in both the files(HornSchunckcode.m and LucasKanade.m)
+
+6. After running HornSchunck.m you will get two images as ouput. On one you will see optical flow on blank image and on the other you will see optical flow on image1 as background.
+
+7. After running LucasKanade.m you will get optical flow on blank image as an output.
+
+For any queries feel free to contact.
+
+ 	
